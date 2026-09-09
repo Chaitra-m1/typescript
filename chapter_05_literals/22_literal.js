@@ -1,0 +1,10 @@
+let age = "chaitra";
+let number = 10;
+let boolean = true;
+let nullvalue = null;
+let undefinedvalue = undefined;
+console.log(age);
+console.log(number);
+console.log(boolean);
+console.log(nullvalue);
+console.log(undefinedvalue);
