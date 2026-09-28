@@ -9,11 +9,6 @@ let c = 'c'; //there is no concept of character in js all are treated as string
 let c1 = 'cc';
 console.log(typeof c);//string
 
-let audi = "";
-console.log(audi);// string
-let a = 0;
-console.log(typeof a);//number
-let h = 0xff;
-console.log(typeof h); //number
+
 
 

@@ -1,3 +1,5 @@
+
+
 //single and double quotes behave the same
 let a = 'hello';
 let b = "hello";

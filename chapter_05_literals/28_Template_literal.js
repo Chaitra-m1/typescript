@@ -10,6 +10,4 @@ console.log(url);//https://development.google.com
 
 const env1 = "staging";
 const url1 = `https://${env1}.google.com`;
-console.log(url1);
-
-
+console.log(url1);//https://staging.google.com
