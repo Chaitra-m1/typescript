@@ -8,5 +8,5 @@ if (score >= 90) {
 } else if (score >= 60) {
     console.log("grade D");
 } else {
-    console.log("grade F");
+    console.log("fail-grade f");
 }
